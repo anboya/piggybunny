@@ -1,0 +1,55 @@
+header {
+    top: 0;
+    left: 0;
+    background-color: #5f3734;
+    text-align: center;
+}
+.hidden {
+    height: 120px;
+    line-height: 120px;
+    transition: all 1s ;  
+}
+.hidden_home {
+    height: 120px;
+    line-height: 120px;
+    transition: all 1s ;  
+    background-color: transparent;
+}
+.show {
+    height: 80px;
+    line-height: 80px;  
+    transition: all 1s ;  
+}
+
+
+
+header .ant-row > div {
+    width: 100px;
+}
+header .ant-row > div:first-child {
+    width: 300px;
+    margin-left: 50px;
+}
+header .ant-row > div:last-child {
+    margin-right: 50px;
+}
+
+
+
+header .ant-row a {
+    color: #fff;
+    font-size: 20px;
+}
+header .ant-row a:hover {
+    color:#616c78;
+}
+header .ant-row div:first-child a {
+    font-size: 30px;
+}
+header .ant-row div:first-child a:hover {
+    color: #fff;
+}
+
+header .ant-row div:first-child a:hover img {
+    content: url('../../../src/images/Logo/LogoHover_transparent.png');
+}

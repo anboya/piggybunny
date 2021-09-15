@@ -1,0 +1,19 @@
+.comics .ant-list-item .ant-image {
+    border-bottom: 0 none;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, .3);
+    position: absolute;
+    top: 15px;
+}
+.comics .ant-list-item:hover .ant-image {
+    transition: all .2s ease-in-out;
+    top: 0;
+}
+.comics .ant-list-item h1:hover {
+    cursor: pointer;
+}
+.comics .ant-list-item:hover h1 {
+    color: red;
+}
+.comics .ant-image-mask {
+    border-radius: 10px;
+}

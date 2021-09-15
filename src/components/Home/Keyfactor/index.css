@@ -1,0 +1,12 @@
+.middle .ant-card {
+    cursor: default 
+}
+.middle .ant-card-meta-title {
+    color:#459a55;
+    font-size: 20px;
+    font-weight: 700;
+}
+.middle .ant-card-meta-description {
+    color: #191919;
+    font-size: 16px;
+}
