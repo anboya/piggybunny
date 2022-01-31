@@ -12,7 +12,7 @@ export default class Keyfactor extends Component {
   render() {
     return (
       <div style={{ marginTop: 150, marginBottom: 150, textAlign: "center" }}>
-        <h1>How do we take care of them</h1>
+        <h1>How do I take care of them</h1>
         <div
           style={{
             display: "flex",
