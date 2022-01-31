@@ -179,7 +179,7 @@ export default class Gallery extends Component {
             <div
               style={{
                 height: 30,
-                backgroundColor: "#f2ce63",
+                backgroundColor: "#5f3734",
                 color: "#fff",
                 marginBottom: 50,
                 textAlign: "center",

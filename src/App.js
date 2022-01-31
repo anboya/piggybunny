@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import Shop from "./components/Shop";
 import Comics from "./components/Comics";
+import Footer from "./components/Footer/Footer";
 export default class App extends Component {
   render() {
     return (
@@ -19,6 +20,7 @@ export default class App extends Component {
             <Redirect to="/home" />
           </Switch>
         </main>
+        <Footer />
       </section>
     );
   }

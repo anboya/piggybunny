@@ -78,7 +78,7 @@ export default class Comics extends Component {
           />
           <div style={{ fontSize: 18, fontWeight: 700 }}>AUTHOR</div>
           <p style={{ fontSize: 14, marginTop: 8, fontStyle: "italic" }}>
-            Hi, I’m Arren. I’m an animal lover who enjoys drawing comics. Zhuzhu
+            Hi, I’m Boya. I’m an animal lover who enjoys drawing comics. Zhuzhu
             (guinea pig) and Tutu (rabbit) are my pets, they are also the main
             characters of my comics. I always find creative inspiration from
             them and I love to use my drawings to record their everyday life.
