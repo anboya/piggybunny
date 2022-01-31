@@ -2,7 +2,7 @@
   "name": "myfurbabies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DanielChen93.github.io/PiggyBunny",
+  "homepage": "https://github.com/anboya.github.io/piggybunny",
   "dependencies": {
     "@ant-design/icons": "^4.6.4",
     "@testing-library/jest-dom": "^5.14.1",
