@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/piggybunny/static/css/main.59b23768.chunk.css",
-    "main.js": "/piggybunny/static/js/main.31c5abb6.chunk.js",
-    "main.js.map": "/piggybunny/static/js/main.31c5abb6.chunk.js.map",
+    "main.js": "/piggybunny/static/js/main.b3d4087b.chunk.js",
+    "main.js.map": "/piggybunny/static/js/main.b3d4087b.chunk.js.map",
     "runtime-main.js": "/piggybunny/static/js/runtime-main.3d4dca3c.js",
     "runtime-main.js.map": "/piggybunny/static/js/runtime-main.3d4dca3c.js.map",
     "static/css/2.786ae0dd.chunk.css": "/piggybunny/static/css/2.786ae0dd.chunk.css",
@@ -56,6 +56,6 @@
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.e9918fc1.chunk.js",
     "static/css/main.59b23768.chunk.css",
-    "static/js/main.31c5abb6.chunk.js"
+    "static/js/main.b3d4087b.chunk.js"
   ]
 }
